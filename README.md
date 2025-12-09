@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h1 align="center">Hi, I'm Mustafa</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
