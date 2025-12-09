@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustafa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,15 +8,15 @@
 
 ---
 
-### 🚀 **About Me**
-- 🌱 I’m currently learning **React, Node.js, and MongoDB**
-- 💻 I love building **modern, responsive, and animated websites**
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, and Web Animations**
-- ⚡ Fun fact: I turn coffee ☕ into clean code and creative UI ✨
+### **About Me**
+-  I’m currently learning **React, Node.js, and MongoDB**
+-  I love building **modern, responsive, and animated websites**
+-  Ask me about **HTML, CSS, JavaScript, Bootstrap, and Web Animations**
+-  Fun fact: I turn coffee ☕ into clean code and creative UI ✨
 
 ---
 
-### 🛠️ **Languages & Tools**
+###  **Languages & Tools**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode,figma" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafa&show_icons=true&theme=tokyonight" height="165" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔥 **Streak Stats**
+###  **Streak Stats**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mustafa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -41,15 +41,8 @@
 
 ---
 
-### 🧠 **Projects & Highlights**
 
-- 💼 [MegaSite](#) — A massive animated multi-page responsive website built with Bootstrap & AOS
-- 🎮 [GameHub](#) — A gaming website with category filters, team section & light/dark mode
-- 👕 [Fashion E-Commerce](#) — A responsive e-commerce website with elegant UI and animations
-
----
-
-### 🤝 **Connect With Me**
+### **Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link/" target="_blank">
@@ -68,7 +61,7 @@
 
 ---
 
-### 🧩 **Fun Animation**
+### **Fun Animation**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400px" />
