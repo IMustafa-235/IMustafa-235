@@ -19,16 +19,6 @@
 
 ---
 
-### **Connect With Me**
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/mustafa-ghazanfar/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### **Fun Animation**
 
 <p align="center">
